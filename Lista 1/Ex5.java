@@ -16,5 +16,6 @@ public class Ex5{
                 System.out.println(fita2.charAt(i));
             }
         }
+        ler.close();
     }
 }
