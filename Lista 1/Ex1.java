@@ -103,5 +103,6 @@ public class Ex1 {
         }
 
         System.out.println(v[0] *10 + v[1]);
+        ler.close();
     }
 }
