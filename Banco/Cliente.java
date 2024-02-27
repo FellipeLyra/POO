@@ -66,12 +66,12 @@ public class Cliente {
     }
 
 
-    public void criarBanco() {
-        ArrayList<Cliente> lista = new ArrayList<Cliente>();
+    //public void criarBanco() {
+        //ArrayList<Cliente> lista = new ArrayList<Cliente>();
         // Cliente c1 = new Cliente("Maria", "921.427.654-58", "453");
-        Cliente c1 = new Cliente(nome, cpf, nconta, tel );
-        lista.add(c1);
-    }
+        //Cliente c1 = new Cliente(nome, cpf, nconta, tel );
+       // lista.add(c1);
+   // }
 
 
     public void RandomConta(){
